@@ -1,0 +1,1810 @@
+{
+  "Lat Pulldown (Cable)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal Ancho (Latissimus Dorsi)",
+      "Redondo Mayor (Teres Major)",
+      "Romboides",
+      "Trapecio (porción media/inferior)",
+      "Bíceps braquial",
+      "Deltoides posterior"
+    ]
+  },
+  "Iso-Lateral Row (Machine)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal Ancho",
+      "Trapecio (fibras medias e inferiores)",
+      "Romboides",
+      "Bíceps braquial (cabeza larga y corta)",
+      "Deltoides posterior"
+    ]
+  },
+  "Lat Pulldown - Close Grip (Cable)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho (Latissimus Dorsi)",
+      "Romboides",
+      "Trapecio (fibras medias e inferiores)",
+      "Bíceps braquial (cabeza larga)",
+      "Bíceps braquial (cabeza corta)",
+      "Deltoides posterior"
+    ]
+  },
+  "Pullover (Machine)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Pectoral",
+      "Redondo mayor",
+      "Tríceps"
+    ],
+    "cabezas_o_regiones": [
+      "Latissimus Dorsi",
+      "Pectoral mayor (cabeza esternal)",
+      "Redondo mayor (Teres Major)",
+      "Tríceps (cabeza larga)"
+    ]
+  },
+  "Preacher Curl (Barbell)": {
+    "grupo_principal": "Bíceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Bíceps braquial (cabeza corta)",
+      "Bíceps braquial (cabeza larga)",
+      "Braquial",
+      "Braquiorradial"
+    ]
+  },
+  "Seated Incline Curl (Dumbbell)": {
+    "grupo_principal": "Bíceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Bíceps braquial (cabeza larga)",
+      "Bíceps braquial (cabeza corta)",
+      "Braquial",
+      "Braquiorradial"
+    ]
+  },
+  "Hammer Curl (Dumbbell)": {
+    "grupo_principal": "Bíceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Braquiorradial",
+      "Braquial",
+      "Bíceps braquial (cabeza larga y corta)"
+    ]
+  },
+  "Bench Press (Barbell)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza esternal)",
+      "Pectoral mayor (cabeza clavicular)",
+      "Tríceps braquial (todas las cabezas)",
+      "Deltoides anterior"
+    ]
+  },
+  "Incline Bench Press (Barbell)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza clavicular)",
+      "Deltoides anterior",
+      "Tríceps braquial"
+    ]
+  },
+  "Lateral Raise (Dumbbell)": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Trapecio",
+      "Manguito Rotador"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides medial (o lateral)",
+      "Deltoides anterior",
+      "Deltoides posterior",
+      "Trapecio superior"
+    ]
+  },
+  "Seated Overhead Press (Barbell)": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Trapecio"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides anterior",
+      "Deltoides medio",
+      "Tríceps (todas las cabezas)",
+      "Trapecio superior"
+    ]
+  },
+  "Iso-Lateral Chest Press (Machine)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza esternal)",
+      "Pectoral mayor (cabeza clavicular)",
+      "Tríceps (todas las cabezas)",
+      "Deltoides anterior"
+    ]
+  },
+  "Squat (Smith Machine)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteo",
+      "Isquiotibiales",
+      "Núcleo (Core)"
+    ],
+    "cabezas_o_regiones": [
+      "Cuádriceps (Vasto lateral)",
+      "Cuádriceps (Vasto medial)",
+      "Glúteo mayor",
+      "Aductores mayores",
+      "Erectores de la columna"
+    ]
+  },
+  "Deadlift (Barbell)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Espalda",
+      "Glúteos",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Isquiotibiales (Bíceps femoral, Semitendinoso, Semimembranoso)",
+      "Glúteo mayor",
+      "Erectores espinales (Lumbar y torácico)",
+      "Cuádriceps (Vasto lateral y medial)",
+      "Trapecio (superior, medio e inferior)",
+      "Dorsal ancho (Estabilización)"
+    ]
+  },
+  "Hip Thrust (Barbell)": {
+    "grupo_principal": "Glúteo",
+    "grupos_secundarios": [
+      "Isquiotibiales",
+      "Núcleo (Estabilización)"
+    ],
+    "cabezas_o_regiones": [
+      "Glúteo Mayor",
+      "Glúteo Medio",
+      "Bíceps femoral (cabeza larga)",
+      "Semitendinoso",
+      "Semimembranoso",
+      "Erectores de la columna (Estabilización)"
+    ]
+  },
+  "Leg Extension (Machine)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [],
+    "cabezas_o_regiones": [
+      "Recto femoral",
+      "Vasto lateral",
+      "Vasto medial",
+      "Vasto intermedio"
+    ]
+  },
+  "Seated Leg Curl (Machine)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Pantorrilla"
+    ],
+    "cabezas_o_regiones": [
+      "Bíceps femoral (cabeza larga)",
+      "Bíceps femoral (cabeza corta)",
+      "Semitendinoso",
+      "Semimembranoso",
+      "Gastrocnemio"
+    ]
+  },
+  "Hip Adduction (Machine)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [],
+    "cabezas_o_regiones": [
+      "Aductor mayor",
+      "Aductor largo",
+      "Aductor corto",
+      "Grácil",
+      "Pectíneo"
+    ]
+  },
+  "Standing Leg Curls": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Gemelos"
+    ],
+    "cabezas_o_regiones": [
+      "Isquiotibiales (femorales)",
+      "Bíceps femoral",
+      "Semitendinoso",
+      "Semimembranoso",
+      "Glúteo mayor"
+    ]
+  },
+  "Hip Abduction (Machine)": {
+    "grupo_principal": "Glúteos",
+    "grupos_secundarios": [
+      "Cadera"
+    ],
+    "cabezas_o_regiones": [
+      "Glúteo medio",
+      "Glúteo menor",
+      "Tensor de la fascia lata"
+    ]
+  },
+  "Bulgarian Split Squat": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Core",
+      "Isquiotibiales"
+    ],
+    "cabezas_o_regiones": [
+      "Cuádriceps (todas las cabezas)",
+      "Glúteo mayor",
+      "Glúteo medio",
+      "Aductores",
+      "Erectores de la columna"
+    ]
+  },
+  "Pendulum Squat (Machine)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Isquiotibiales"
+    ],
+    "cabezas_o_regiones": [
+      "Recto femoral",
+      "Vasto lateral",
+      "Vasto medial",
+      "Glúteo mayor",
+      "Aductores"
+    ]
+  },
+  "T Bar Row": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho",
+      "Romboides",
+      "Trapecio (fibras medias e inferiores)",
+      "Deltoides posterior",
+      "Bíceps braquial",
+      "Erectores de la columna"
+    ]
+  },
+  "Treadmill": {
+    "grupo_principal": "Cardio",
+    "grupos_secundarios": [],
+    "cabezas_o_regiones": []
+  },
+  "Incline Bench Press (Dumbbell)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Hombro",
+      "Tríceps"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza clavicular)",
+      "Pectoral mayor (cabeza esternal)",
+      "Deltoides anterior",
+      "Tríceps (todas las cabezas)"
+    ]
+  },
+  "Single Arm Tricep Extension (Dumbbell)": {
+    "grupo_principal": "Tríceps",
+    "grupos_secundarios": [
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Tríceps braquial (cabeza larga)",
+      "Tríceps braquial (cabeza medial)",
+      "Tríceps braquial (cabeza lateral)",
+      "Deltoides anterior"
+    ]
+  },
+  "Plate Front Raise": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Trapecio",
+      "Pecho"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides anterior",
+      "Deltoides medio",
+      "Pectoral mayor (cabeza clavicular)",
+      "Trapecio superior"
+    ]
+  },
+  "Lying Leg Raise": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de Cadera",
+      "Pierna"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal (porción inferior)",
+      "Iliopsoas (Psoas mayor e Ilíaco)",
+      "Recto femoral",
+      "Oblicuos"
+    ]
+  },
+  "Seated Palms Up Wrist Curl": {
+    "grupo_principal": "Antebrazo",
+    "grupos_secundarios": [],
+    "cabezas_o_regiones": [
+      "Flexores del carpo",
+      "Flexor carpi radialis",
+      "Flexor carpi ulnaris",
+      "Palmaris longus"
+    ]
+  },
+  "Seated Cable Row - Bar Grip": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal Ancho",
+      "Romboides",
+      "Trapecio (porción media e inferior)",
+      "Deltoides posterior",
+      "Bíceps braquial",
+      "Braquial"
+    ]
+  },
+  "Crunch (Machine)": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Oblicuos"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal",
+      "Oblicuo externo",
+      "Oblicuo interno"
+    ]
+  },
+  "Iso-Lateral High Row (Machine)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho",
+      "Trapecio (fibras medias e inferiores)",
+      "Romboides",
+      "Deltoides posterior",
+      "Bíceps braquial"
+    ]
+  },
+  "Triceps Dip": {
+    "grupo_principal": "Tríceps",
+    "grupos_secundarios": [
+      "Pecho",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Tríceps braquial (cabeza larga)",
+      "Tríceps braquial (cabeza lateral)",
+      "Tríceps braquial (cabeza medial)",
+      "Deltoides anterior",
+      "Pectoral mayor (fibras inferiores/cabeza esternal)"
+    ]
+  },
+  "Stair Machine (Floors)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteo",
+      "Isquiotibiales",
+      "Pantorrilla",
+      "Core"
+    ],
+    "cabezas_o_regiones": [
+      "Cuádriceps (general)",
+      "Glúteo mayor",
+      "Gastrocnemio",
+      "Sóleo",
+      "Erectores espinales",
+      "Abdominales (transverso y recto)"
+    ]
+  },
+  "Reverse Fly Single Arm (Cable)": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Espalda",
+      "Manguito Rotador"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides posterior",
+      "Trapecio (porción media)",
+      "Romboides"
+    ]
+  },
+  "Plank": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Glúteo",
+      "Hombro",
+      "Cuádriceps"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal",
+      "Transverso del abdomen",
+      "Oblicuos (interno y externo)",
+      "Glúteo mayor",
+      "Deltoides (anterior y medio)",
+      "Serrato anterior"
+    ]
+  },
+  "Decline Bench Press (Barbell)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza esternal/abdominal)",
+      "Tríceps (todas las cabezas)",
+      "Deltoides anterior"
+    ]
+  },
+  "Chest Fly (Machine)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza esternal)",
+      "Pectoral mayor (porción clavicular)",
+      "Deltoides anterior"
+    ]
+  },
+  "Lateral Raise (Machine)": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Trapecio",
+      "Manguito rotador"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides medial",
+      "Deltoides anterior",
+      "Supraspinatus"
+    ]
+  },
+  "Bent Over Row (Barbell)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho",
+      "Romboides",
+      "Trapecio (medio e inferior)",
+      "Deltoides posterior",
+      "Erectores espinales"
+    ]
+  },
+  "Rear Delt Reverse Fly (Machine)": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Trapecio",
+      "Espalda superior"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides posterior",
+      "Trapecio (fibras medias)",
+      "Romboides"
+    ]
+  },
+  "Hack Squat (Machine)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Isquiotibiales",
+      "Aductores"
+    ],
+    "cabezas_o_regiones": [
+      "Cuádriceps (Vasto lateral)",
+      "Cuádriceps (Vasto medial)",
+      "Cuádriceps (Recto femoral)",
+      "Glúteo mayor"
+    ]
+  },
+  "Hip Thrust (Machine)": {
+    "grupo_principal": "Glúteo",
+    "grupos_secundarios": [
+      "Isquiotibiales",
+      "Core"
+    ],
+    "cabezas_o_regiones": [
+      "Glúteo mayor",
+      "Glúteo medio",
+      "Bíceps femoral (cabeza larga)",
+      "Semitendinoso",
+      "Semimembranoso",
+      "Erectores espinales"
+    ]
+  },
+  "Calf Extension (Machine)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [],
+    "cabezas_o_regiones": [
+      "Gastrocnemio (cabeza medial)",
+      "Gastrocnemio (cabeza lateral)",
+      "Sóleo"
+    ]
+  },
+  "Seated Dip Machine": {
+    "grupo_principal": "Tríceps",
+    "grupos_secundarios": [
+      "Pecho",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Tríceps braquial (todas las cabezas)",
+      "Pectoral mayor (cabeza esternal)",
+      "Deltoides anterior"
+    ]
+  },
+  "Seated Shoulder Press (Machine)": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Pecho"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides anterior",
+      "Deltoides medial",
+      "Tríceps (todas las cabezas)",
+      "Pectoral mayor (cabeza clavicular)"
+    ]
+  },
+  "Bicep Curl (Machine)": {
+    "grupo_principal": "Bíceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Bíceps braquial (cabeza larga)",
+      "Bíceps braquial (cabeza corta)",
+      "Braquial",
+      "Braquiorradial"
+    ]
+  },
+  "Rear Delt Reverse Fly (Cable)": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Espalda"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides posterior",
+      "Trapecio (porción media)",
+      "Romboides"
+    ]
+  },
+  "Shrug (Dumbbell)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Trapecio (fibras superiores)",
+      "Músculo elevador de la escápula"
+    ]
+  },
+  "Leg Press Horizontal (Machine)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Isquiotibiales"
+    ],
+    "cabezas_o_regiones": [
+      "Vasto lateral",
+      "Vasto medial",
+      "Recto femoral",
+      "Glúteo mayor",
+      "Aductor mayor",
+      "Bíceps femoral"
+    ]
+  },
+  "Chin Up": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Antebrazo",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho (Latissimus Dorsi)",
+      "Bíceps braquial (cabeza larga)",
+      "Bíceps braquial (cabeza corta)",
+      "Braquial",
+      "Deltoides posterior",
+      "Romboides",
+      "Trapecio (inferior)"
+    ]
+  },
+  "Leg Press (Machine)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteo",
+      "Isquiotibiales"
+    ],
+    "cabezas_o_regiones": [
+      "Cuádriceps (general)",
+      "Vasto lateral",
+      "Vasto medial",
+      "Recto femoral",
+      "Glúteo mayor"
+    ]
+  },
+  "Hammer Curl (Cable)": {
+    "grupo_principal": "Bíceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Braquiorradial",
+      "Braquial",
+      "Bíceps braquial (cabeza larga)",
+      "Bíceps braquial (cabeza corta)"
+    ]
+  },
+  "Lunge (Dumbbell)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Isquiotibiales",
+      "Core"
+    ],
+    "cabezas_o_regiones": [
+      "Cuádriceps (Recto femoral)",
+      "Cuádriceps (Vasto lateral)",
+      "Cuádriceps (Vasto medial)",
+      "Glúteo mayor",
+      "Aductores",
+      "Gemelos"
+    ]
+  },
+  "Chest Press (Machine)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza esternal)",
+      "Pectoral mayor (cabeza clavicular)",
+      "Deltoides anterior",
+      "Tríceps braquial (todas las cabezas)"
+    ]
+  },
+  "Leg Raise Parallel Bars": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de Cadera",
+      "Oblicuos"
+    ],
+    "cabezas_o_regiones": [
+      "Recto Abdominal (porción inferior)",
+      "Iliopsoas",
+      "Transverso del Abdomen",
+      "Oblicuos (externos e internos)"
+    ]
+  },
+  "Hanging Leg Raise": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de Cadera",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Recto Abdominal",
+      "Oblicuos (Internos y Externos)",
+      "Iliopsoas (Psoas mayor e Ilíaco)",
+      "Recto Femoral (Cuádriceps)"
+    ]
+  },
+  "Mountain Climber": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Cadera (Flexores)",
+      "Hombro",
+      "Pierna"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal",
+      "Oblicuos",
+      "Iliopsoas",
+      "Deltoides anterior",
+      "Cuádriceps"
+    ]
+  },
+  "Lat Pulldown (Machine)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho (Latissimus Dorsi)",
+      "Romboides",
+      "Trapecio (parte media e inferior)",
+      "Bíceps braquial",
+      "Braquial",
+      "Deltoides posterior"
+    ]
+  },
+  "Glute Kickback (Machine)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Isquiotibiales"
+    ],
+    "cabezas_o_regiones": [
+      "Glúteo mayor",
+      "Glúteo medio",
+      "Bíceps femoral (cabeza larga)",
+      "Semitendinoso",
+      "Semimembranoso"
+    ]
+  },
+  "Chest Fly (Dumbbell)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza esternal)",
+      "Pectoral mayor (cabeza clavicular)",
+      "Deltoides anterior"
+    ]
+  },
+  "Crunch": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Núcleo"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal",
+      "Oblicuos externos",
+      "Oblicuos internos"
+    ]
+  },
+  "Push Up": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Hombro",
+      "Core (Estabilizadores)"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza esternal)",
+      "Pectoral mayor (cabeza clavicular)",
+      "Tríceps (todas las cabezas)",
+      "Deltoides anterior",
+      "Serrato anterior"
+    ]
+  },
+  "Crunch (Weighted)": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Core",
+      "Flexores de cadera"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal",
+      "Oblicuos (externo e interno)",
+      "Transverso del abdomen"
+    ]
+  },
+  "Seated Wrist Extension (Barbell)": {
+    "grupo_principal": "Antebrazo",
+    "grupos_secundarios": [],
+    "cabezas_o_regiones": [
+      "Extensor radial largo del carpo",
+      "Extensor radial corto del carpo",
+      "Extensor cubital del carpo",
+      "Extensor común de los dedos"
+    ]
+  },
+  "Farmers Walk": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Antebrazo",
+      "Abdominales",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Trapecio (superior)",
+      "Trapecio (medio)",
+      "Erectores espinales",
+      "Oblicuos",
+      "Flexores de los dedos y la muñeca",
+      "Recto abdominal"
+    ]
+  },
+  "Reverse Curl (Barbell)": {
+    "grupo_principal": "Antebrazo",
+    "grupos_secundarios": [
+      "Brazo"
+    ],
+    "cabezas_o_regiones": [
+      "Braquiorradial",
+      "Extensores del carpo",
+      "Braquial",
+      "Bíceps braquial"
+    ]
+  },
+  "Incline Chest Fly (Dumbbell)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza clavicular)",
+      "Pectoral mayor (cabeza esternal)",
+      "Deltoides anterior"
+    ]
+  },
+  "Single Arm Lateral Raise (Cable)": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Trapecio",
+      "Core",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides medial",
+      "Deltoides anterior",
+      "Supraespinoso"
+    ]
+  },
+  "Chin Up (Assisted)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal Ancho (Latissimus Dorsi)",
+      "Bíceps braquial (cabeza larga)",
+      "Bíceps braquial (cabeza corta)",
+      "Braquial",
+      "Romboides",
+      "Trapecio (fibras medias e inferiores)",
+      "Deltoides posterior"
+    ]
+  },
+  "Triceps Dip (Assisted)": {
+    "grupo_principal": "Tríceps",
+    "grupos_secundarios": [
+      "Pectoral",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Tríceps braquial (todas las cabezas)",
+      "Deltoides anterior",
+      "Pectoral mayor (cabeza esternal)"
+    ]
+  },
+  "Russian Twist (Weighted)": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de la cadera",
+      "Espalda baja"
+    ],
+    "cabezas_o_regiones": [
+      "Oblicuos externos",
+      "Oblicuos internos",
+      "Recto abdominal",
+      "Erector de la columna (zona lumbar)"
+    ]
+  },
+  "Elliptical Trainer": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Hombro",
+      "Espalda",
+      "Core"
+    ],
+    "cabezas_o_regiones": [
+      "Cuádriceps (general)",
+      "Isquiotibiales",
+      "Glúteo mayor",
+      "Gemelos",
+      "Deltoides anterior",
+      "Deltoides posterior",
+      "Dorsal ancho (tracción)",
+      "Abdominales (estabilización)"
+    ]
+  },
+  "Side Plank": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Hombro",
+      "Espalda baja"
+    ],
+    "cabezas_o_regiones": [
+      "Oblicuo interno",
+      "Oblicuo externo",
+      "Transverso del abdomen",
+      "Cuadrado lumbar",
+      "Glúteo medio",
+      "Serrato anterior"
+    ]
+  },
+  "Front Raise (Dumbbell)": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Trapecio",
+      "Pectoral"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides anterior",
+      "Deltoides medio",
+      "Pectoral mayor (cabeza clavicular)"
+    ]
+  },
+  "Stair Machine": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Pantorrillas",
+      "Core"
+    ],
+    "cabezas_o_regiones": [
+      "Cuádriceps (Recto femoral, vastos)",
+      "Glúteo mayor",
+      "Isquiotibiales",
+      "Gemelos",
+      "Sóleo",
+      "Erectores de la columna"
+    ]
+  },
+  "Lying Leg Curl (Machine)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Gemelos"
+    ],
+    "cabezas_o_regiones": [
+      "Bíceps femoral (cabeza larga)",
+      "Bíceps femoral (cabeza corta)",
+      "Semitendinoso",
+      "Semimembranoso"
+    ]
+  },
+  "Air Bike": {
+    "grupo_principal": "Cardio",
+    "grupos_secundarios": [],
+    "cabezas_o_regiones": []
+  },
+  "Jackknife Sit Up": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de la Cadera",
+      "Oblicuos"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal",
+      "Iliopsoas",
+      "Oblicuo externo",
+      "Oblicuo interno"
+    ]
+  },
+  "Reverse Curl (Cable)": {
+    "grupo_principal": "Antebrazo",
+    "grupos_secundarios": [
+      "Braquial",
+      "Bíceps"
+    ],
+    "cabezas_o_regiones": [
+      "Braquiorradial",
+      "Braquial",
+      "Extensores del antebrazo"
+    ]
+  },
+  "Rope Straight Arm Pulldown": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Hombro",
+      "Tríceps",
+      "Core"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal Ancho",
+      "Redondo Mayor",
+      "Deltoides posterior",
+      "Tríceps braquial (cabeza larga)",
+      "Abdominales"
+    ]
+  },
+  "Bicep Curl (Barbell)": {
+    "grupo_principal": "Bíceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Bíceps braquial (cabeza larga)",
+      "Bíceps braquial (cabeza corta)",
+      "Braquial",
+      "Braquiorradial"
+    ]
+  },
+  "Sit Up": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de la cadera",
+      "Oblicuos"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal",
+      "Iliopsoas",
+      "Psoas mayor",
+      "Recto femoral"
+    ]
+  },
+  "Bench Press (Smith Machine)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza esternal)",
+      "Pectoral mayor (cabeza clavicular)",
+      "Tríceps (todas las cabezas)",
+      "Deltoides anterior"
+    ]
+  },
+  "Back Extension (Machine)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Isquiotibiales"
+    ],
+    "cabezas_o_regiones": [
+      "Erectores de la columna (zona lumbar)",
+      "Glúteo mayor",
+      "Isquiotibiales (semitendinoso y semimembranoso)"
+    ]
+  },
+  "Pull Up (Assisted)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho (Latissimus Dorsi)",
+      "Redondo mayor",
+      "Trapecio (parte media e inferior)",
+      "Romboides",
+      "Bíceps braquial (cabeza larga)",
+      "Bíceps braquial (cabeza corta)",
+      "Braquial",
+      "Deltoides posterior"
+    ]
+  },
+  "Butterfly (Pec Deck)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza esternal)",
+      "Pectoral mayor (cabeza clavicular)",
+      "Deltoides anterior"
+    ]
+  },
+  "Hanging Knee Raise": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de la cadera",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal (énfasis en la parte inferior)",
+      "Oblicuos",
+      "Iliopsoas"
+    ]
+  },
+  "zumba": {
+    "grupo_principal": "Cardio",
+    "grupos_secundarios": [],
+    "cabezas_o_regiones": []
+  },
+  "Bench Press (Dumbbell)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza esternal)",
+      "Pectoral mayor (cabeza clavicular)",
+      "Tríceps (todas las cabezas)",
+      "Deltoides anterior"
+    ]
+  },
+  "Single Arm Lat Pulldown": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho (Latissimus Dorsi)",
+      "Trapecio (fibras medias e inferiores)",
+      "Romboides",
+      "Bíceps braquial",
+      "Braquial"
+    ]
+  },
+  "Skullcrusher (Barbell)": {
+    "grupo_principal": "Tríceps",
+    "grupos_secundarios": [
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Tríceps braquial (cabeza larga)",
+      "Tríceps braquial (cabeza lateral)",
+      "Tríceps braquial (cabeza medial)",
+      "Deltoides (estabilización)"
+    ]
+  },
+  "EZ Bar Biceps Curl": {
+    "grupo_principal": "Bíceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Bíceps braquial (cabeza larga)",
+      "Bíceps braquial (cabeza corta)",
+      "Braquial",
+      "Braquiorradial"
+    ]
+  },
+  "Spider Curl (Dumbbell)": {
+    "grupo_principal": "Bíceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Bíceps braquial (cabeza larga)",
+      "Bíceps braquial (cabeza corta)",
+      "Braquial",
+      "Braquiorradial"
+    ]
+  },
+  "Triceps Extension (Dumbbell)": {
+    "grupo_principal": "Tríceps",
+    "grupos_secundarios": [
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Tríceps (cabeza larga)",
+      "Tríceps (cabeza medial)",
+      "Tríceps (cabeza lateral)",
+      "Deltoides (estabilización)"
+    ]
+  },
+  "Knee Raise Parallel Bars": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de cadera",
+      "Hombro",
+      "Estabilizadores del torso"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal (región inferior)",
+      "Oblicuos (Internos y Externos)",
+      "Iliopsoas",
+      "Recto femoral"
+    ]
+  },
+  "Cycling": {
+    "grupo_principal": "Cuádriceps",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Isquiotibiales",
+      "Pantorrilla"
+    ],
+    "cabezas_o_regiones": [
+      "Recto femoral",
+      "Vasto medial",
+      "Vasto lateral",
+      "Glúteo mayor",
+      "Bíceps femoral",
+      "Gastrocnemio",
+      "Sóleo"
+    ]
+  },
+  "Squat (Bodyweight)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteo",
+      "Core",
+      "Isquiotibiales"
+    ],
+    "cabezas_o_regiones": [
+      "Cuádriceps (todos los vastos y Recto femoral)",
+      "Glúteo mayor",
+      "Erectores espinales",
+      "Aductores"
+    ]
+  },
+  "Rope Cable Curl": {
+    "grupo_principal": "Bíceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Bíceps braquial (cabeza larga)",
+      "Bíceps braquial (cabeza corta)",
+      "Braquial",
+      "Braquiorradial"
+    ]
+  },
+  "Cross Body Hammer Curl": {
+    "grupo_principal": "Bíceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Braquial",
+      "Braquiorradial",
+      "Bíceps braquial"
+    ]
+  },
+  "V Up": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de la cadera",
+      "Cuádriceps"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal",
+      "Oblicuos",
+      "Iliopsoas",
+      "Psoas mayor",
+      "Recto femoral"
+    ]
+  },
+  "Spiderman": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Hombro",
+      "Core"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor",
+      "Deltoides anterior",
+      "Tríceps braquial",
+      "Recto abdominal",
+      "Oblicuos",
+      "Flexores de cadera (Iliopsoas)"
+    ]
+  },
+  "Back Extension (Weighted Hyperextension)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Isquiotibiales"
+    ],
+    "cabezas_o_regiones": [
+      "Erector Spinae (Músculos espinales lumbares)",
+      "Glúteo mayor",
+      "Bíceps femoral",
+      "Semitendinoso y Semimembranoso"
+    ]
+  },
+  "Deadlift (Dumbbell)": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Espalda",
+      "Glúteos",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Isquiotibiales (Bíceps femoral, Semitendinoso, Semimembranoso)",
+      "Glúteo mayor",
+      "Cuádriceps (Vasto lateral, Vasto medial)",
+      "Erectores espinales (Lumbar y Torácico)",
+      "Trapecio (parte superior)",
+      "Antebrazo (Músculos flexores y extensores)"
+    ]
+  },
+  "Reverse Crunch": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de la cadera"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal (fibras inferiores)",
+      "Oblicuo externo",
+      "Oblicuo interno",
+      "Transverso del abdomen",
+      "Psoas ilíaco"
+    ]
+  },
+  "Estiramiento Cobrs": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Abdomen",
+      "Pecho",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Erectores espinales (Activación/Estabilización)",
+      "Recto abdominal (Estiramiento)",
+      "Pectoral mayor (Estiramiento)",
+      "Deltoides anterior (Estiramiento)",
+      "Psoas (Estiramiento)"
+    ]
+  },
+  "Single Leg Glute Bridge": {
+    "grupo_principal": "Glúteo",
+    "grupos_secundarios": [
+      "Isquiotibiales",
+      "Core"
+    ],
+    "cabezas_o_regiones": [
+      "Glúteo Mayor",
+      "Glúteo Medio",
+      "Bíceps femoral",
+      "Semimembranoso",
+      "Semitendinoso",
+      "Recto abdominal (Estabilización)"
+    ]
+  },
+  "Jump Squat": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Isquiotibiales",
+      "Core"
+    ],
+    "cabezas_o_regiones": [
+      "Cuádriceps (Vasto lateral)",
+      "Cuádriceps (Vasto medial)",
+      "Cuádriceps (Recto femoral)",
+      "Glúteo mayor",
+      "Aductores",
+      "Músculos Erectores de la columna"
+    ]
+  },
+  "Lunge": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Isquiotibiales",
+      "Núcleo"
+    ],
+    "cabezas_o_regiones": [
+      "Cuádriceps (general)",
+      "Glúteo mayor",
+      "Vasto lateral",
+      "Vasto medial",
+      "Recto femoral",
+      "Erectores espinales"
+    ]
+  },
+  "Pike Pushup": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Pecho",
+      "Core"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides anterior",
+      "Deltoides medio",
+      "Tríceps (todas las cabezas)",
+      "Pectoral mayor (cabeza clavicular)",
+      "Recto abdominal"
+    ]
+  },
+  "Triceps Pushdown": {
+    "grupo_principal": "Tríceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Tríceps braquial (Cabeza lateral)",
+      "Tríceps braquial (Cabeza medial)",
+      "Tríceps braquial (Cabeza larga)"
+    ]
+  },
+  "Cable Fly Crossovers": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (cabeza esternal)",
+      "Pectoral mayor (cabeza clavicular)",
+      "Deltoides anterior"
+    ]
+  },
+  "Straight Arm Lat Pulldown (Cable)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Hombro",
+      "Tríceps",
+      "Core"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho (Latissimus Dorsi)",
+      "Redondo mayor (Teres major)",
+      "Deltoides posterior",
+      "Tríceps (cabeza larga)",
+      "Erectores de la columna (Estabilización)"
+    ]
+  },
+  "Pull Up": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho (Latissimus Dorsi)",
+      "Trapecio (parte inferior y media)",
+      "Romboides",
+      "Bíceps braquial",
+      "Braquial",
+      "Deltoides posterior"
+    ]
+  },
+  "Seated Cable Row - V Grip (Cable)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho",
+      "Trapecio (fibras medias e inferiores)",
+      "Romboides",
+      "Deltoides posterior",
+      "Bíceps braquial (cabeza larga y corta)",
+      "Braquial"
+    ]
+  },
+  "Preacher Curl (Machine)": {
+    "grupo_principal": "Bíceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Bíceps braquial (cabeza corta)",
+      "Bíceps braquial (cabeza larga)",
+      "Braquial",
+      "Braquiorradial"
+    ]
+  },
+  "Triceps Rope Pushdown": {
+    "grupo_principal": "Tríceps",
+    "grupos_secundarios": [
+      "Antebrazo",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Tríceps braquial (cabeza lateral)",
+      "Tríceps braquial (cabeza medial)",
+      "Tríceps braquial (cabeza larga)",
+      "Ancóneo",
+      "Deltoides (estabilización)"
+    ]
+  },
+  "Deadlift (Smith Machine)": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Isquiotibiales",
+      "Trapecios",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Erectores espinales",
+      "Glúteo mayor",
+      "Bíceps femoral",
+      "Semimembranoso",
+      "Semitendinoso",
+      "Trapecio (superior e medio)",
+      "Dorsales (estabilización)"
+    ]
+  },
+  "Face Pull": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Espalda",
+      "Bíceps"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides posterior",
+      "Trapecio (porción media)",
+      "Romboides",
+      "Manguito rotador"
+    ]
+  },
+  "Seated Calf Raise": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Tibial posterior"
+    ],
+    "cabezas_o_regiones": [
+      "Sóleo",
+      "Gastrocnemio (cabeza medial)",
+      "Gastrocnemio (cabeza lateral)"
+    ]
+  },
+  "Bicep Curl (Cable)": {
+    "grupo_principal": "Bíceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Bíceps braquial (cabeza larga)",
+      "Bíceps braquial (cabeza corta)",
+      "Braquial",
+      "Braquiorradial"
+    ]
+  },
+  "Ab Wheel": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Hombro",
+      "Espalda baja",
+      "Flexores de cadera"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal",
+      "Transverso del abdomen",
+      "Oblicuos (internos y externos)",
+      "Deltoides anterior",
+      "Erectores espinales"
+    ]
+  },
+  "Bicycle Crunch": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de Cadera"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal",
+      "Oblicuo externo",
+      "Oblicuo interno",
+      "Iliopsoas",
+      "Recto femoral"
+    ]
+  },
+  "Dumbbell Row": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho (Latissimus Dorsi)",
+      "Romboides",
+      "Trapecio (porción media e inferior)",
+      "Deltoides posterior",
+      "Bíceps braquial"
+    ]
+  },
+  "Decline Crunch (Weighted)": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Oblicuos",
+      "Flexores de cadera"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal",
+      "Oblicuo externo",
+      "Oblicuo interno",
+      "Iliopsoas"
+    ]
+  },
+  "Shoulder Press (Dumbbell)": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Trapecio"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides anterior",
+      "Deltoides medio",
+      "Tríceps (todas las cabezas)",
+      "Trapecio (fibras superiores)"
+    ]
+  },
+  "Skullcrusher (Dumbbell)": {
+    "grupo_principal": "Tríceps",
+    "grupos_secundarios": [
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Tríceps braquial (cabeza larga)",
+      "Tríceps braquial (cabeza lateral)",
+      "Tríceps braquial (cabeza medial)"
+    ]
+  },
+  "Rear Delt Reverse Fly (Dumbbell)": {
+    "grupo_principal": "Hombro",
+    "grupos_secundarios": [
+      "Espalda alta",
+      "Trapecio",
+      "Romboides"
+    ],
+    "cabezas_o_regiones": [
+      "Deltoides posterior",
+      "Trapecio (porción media)",
+      "Romboides (mayor y menor)"
+    ]
+  },
+  "Decline Crunch": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de la cadera"
+    ],
+    "cabezas_o_regiones": [
+      "Recto abdominal",
+      "Oblicuos (Interno y Externo)",
+      "Iliopsoas"
+    ]
+  },
+  "Landmine Row": {
+    "grupo_principal": "Espalda",
+    "grupos_secundarios": [
+      "Bíceps",
+      "Hombro",
+      "Antebrazo"
+    ],
+    "cabezas_o_regiones": [
+      "Dorsal ancho",
+      "Romboides",
+      "Trapecio (fibras medias e inferiores)",
+      "Deltoides posterior",
+      "Bíceps braquial"
+    ]
+  },
+  "Triceps Extension (Cable)": {
+    "grupo_principal": "Tríceps",
+    "grupos_secundarios": [
+      "Antebrazo",
+      "Hombro"
+    ],
+    "cabezas_o_regiones": [
+      "Tríceps braquial (cabeza larga)",
+      "Tríceps braquial (cabeza lateral)",
+      "Tríceps braquial (cabeza medial)",
+      "Deltoides posterior (Estabilizador)"
+    ]
+  },
+  "Kettlebell Goblet Squat": {
+    "grupo_principal": "Pierna",
+    "grupos_secundarios": [
+      "Glúteos",
+      "Tronco",
+      "Espalda"
+    ],
+    "cabezas_o_regiones": [
+      "Cuádriceps (Vasto lateral, Vasto medial, Recto femoral)",
+      "Glúteo mayor",
+      "Erectores espinales (Lumbar)",
+      "Isquiotibiales",
+      "Recto abdominal",
+      "Deltoides anterior (Estabilización)"
+    ]
+  },
+  "Heel Taps": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Oblicuos"
+    ],
+    "cabezas_o_regiones": [
+      "Oblicuo externo",
+      "Oblicuo interno",
+      "Recto abdominal (superior)"
+    ]
+  },
+  "Decline Bench Press (Machine)": {
+    "grupo_principal": "Pecho",
+    "grupos_secundarios": [
+      "Tríceps",
+      "Deltoides anterior"
+    ],
+    "cabezas_o_regiones": [
+      "Pectoral mayor (Cabeza abdominal / Inferior)",
+      "Pectoral mayor (Cabeza esternocostal)",
+      "Tríceps braquial (Cabezas lateral y medial)",
+      "Deltoides anterior",
+      "Serrato anterior (Estabilización)"
+    ]
+  },
+  "Cable Core Palloff Press": {
+    "grupo_principal": "Núcleo/Core (Estabilidad)",
+    "grupos_secundarios": [
+      "Oblicuos",
+      "Glúteos",
+      "Hombros (Estabilización)"
+    ],
+    "cabezas_o_regiones": [
+      "Estabilizadores Antirrotación",
+      "Abdominal Transverso",
+      "Oblicuo Interno y Externo",
+      "Recto Abdominal"
+    ]
+  },
+  "Hollow Rock": {
+    "grupo_principal": "Abdomen",
+    "grupos_secundarios": [
+      "Flexores de la Cadera",
+      "Estabilizadores de la Parte Superior de la Espalda",
+      "Hombros"
+    ],
+    "cabezas_o_regiones": [
+      "Recto Abdominal",
+      "Transverso Abdominal",
+      "Oblicuos",
+      "Iliopsoas",
+      "Erectores de la Columna (Anti-extensión)"
+    ]
+  }
+}

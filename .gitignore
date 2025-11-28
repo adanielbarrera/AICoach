@@ -1,0 +1,19 @@
+# --- .gitignore ---
+
+# 1. SEGURIDAD (CRÍTICO)
+.env
+*.env
+
+# 2. Basura de Python
+__pycache__/
+*.pyc
+
+# 3. Entornos virtuales (si tienes uno)
+venv/
+env/
+
+# 4. Archivos del sistema
+.DS_Store
+
+# 5. Imágenes generadas (Opcional: si quieres ahorrar espacio)
+# static/*.png

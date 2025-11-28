@@ -1,0 +1,72 @@
+[
+  {
+    "balance_muscular_stats": {
+      "series_totales": {
+        "Espalda": 216,
+        "Pecho": 214,
+        "Pierna": 161,
+        "Hombro": 135,
+        "B\u00edceps": 96,
+        "Tr\u00edceps": 90,
+        "Abdomen": 31,
+        "Gl\u00fateos": 30,
+        "Gl\u00fateo": 23,
+        "Cardio": 22,
+        "Antebrazo": 9,
+        "Core": 4
+      },
+      "avg_series_semanal": {
+        "Espalda": 19.636363636363637,
+        "Pecho": 19.454545454545453,
+        "Pierna": 14.636363636363637,
+        "Hombro": 12.272727272727273,
+        "B\u00edceps": 8.727272727272727,
+        "Tr\u00edceps": 8.181818181818182,
+        "Abdomen": 2.8181818181818183,
+        "Gl\u00fateos": 2.727272727272727,
+        "Gl\u00fateo": 2.090909090909091,
+        "Cardio": 2.0,
+        "Antebrazo": 0.8181818181818182,
+        "Core": 0.36363636363636365
+      },
+      "puntaje_rpg": {
+        "Espalda": 98.18181818181819,
+        "Pecho": 97.27272727272727,
+        "Pierna": 73.18181818181819,
+        "Hombro": 61.36363636363637,
+        "B\u00edceps": 43.63636363636363,
+        "Tr\u00edceps": 40.90909090909091,
+        "Abdomen": 14.090909090909093,
+        "Gl\u00fateos": 13.636363636363635,
+        "Gl\u00fateo": 10.454545454545453,
+        "Cardio": 10.0,
+        "Antebrazo": 4.090909090909091,
+        "Core": 1.8181818181818181
+      }
+    },
+    "fuerza_e1rm_reciente": {
+      "Bench Press (Barbell)": 101.33333333333333,
+      "Deadlift (Barbell)": 106.66666666666666,
+      "Incline Bench Press (Barbell)": 63.33333333333333,
+      "Seated Overhead Press (Barbell)": 42.0,
+      "Squat (Smith Machine)": 70.0
+    },
+    "medidas_corporales_recientes": {
+      "peso": NaN,
+      "pecho": 108.5,
+      "cintura": 86.0,
+      "cadera": 96.0,
+      "brazo": 38.0,
+      "pierna": 57.0,
+      "cuello": 37.0
+    },
+    "composicion_corporal_reciente": {
+      "grasa_corporal_pct": 12.302081400703287,
+      "lbm_kg": 70.59682447243385
+    },
+    "meta_data": {
+      "fecha_generacion": "2025-11-21T19:10:40.880284",
+      "semana_id": "2025-47"
+    }
+  }
+]
