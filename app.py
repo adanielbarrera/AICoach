@@ -633,31 +633,21 @@ def enviar_mensaje_whatsapp(numero_destino, texto_mensaje):
     except Exception as e:
         print(f"Excepción al enviar WhatsApp: {e}")
 
+# --- REEMPLAZA TU FUNCIÓN get_ngrok_url POR ESTA ---
+
+# Pon aquí tu URL exacta de Azure (sin la barra al final)
+AZURE_URL = "https://coach-ai.azurewebsites.net/t" 
+
 def get_ngrok_url():
     """
-    Pregunta al agente de ngrok local cuál es nuestra URL pública.
+    En producción (Azure), devolvemos la URL fija.
+    En desarrollo local, podríamos intentar buscar ngrok, 
+    pero para simplificar, usaremos la de Azure o devolvemos None.
     """
-    try:
-        # ngrok corre un servicio local en el puerto 4040
-        res = requests.get("http://127.0.0.1:4040/api/tunnels")
-        res.raise_for_status() # Da error si ngrok no está corriendo
+    # Si estamos en la nube, regresamos la URL directa
+    return AZURE_URL
 
-        # Parsea la respuesta
-        tunnels_json = res.json()
-
-        # Encuentra el primer túnel 'https'
-        for tunnel in tunnels_json['tunnels']:
-            if tunnel['proto'] == 'https':
-                print(f"URL pública de ngrok detectada: {tunnel['public_url']}")
-                return tunnel['public_url'] # Ej: "https://abcd-123.ngrok-free.app"
-
-        print("No se encontró un túnel https de ngrok.")
-        return None
-    except Exception as e:
-        print(f"Error CRÍTICO al obtener URL de ngrok: {e}")
-        print("Asegúrate de que ngrok esté corriendo en otra terminal.")
-        return None
-
+    # (Nota: Ya no intentamos conectar a localhost:4040 porque en Azure no existe)
 def enviar_imagen_whatsapp(numero_destino, url_imagen, caption=""):
     """
     Envía un mensaje de IMAGEN al usuario usando una URL pública.
