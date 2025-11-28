@@ -41,20 +41,24 @@ VERIFY_TOKEN = "TU_TOKEN_SECRETO" # Asegúrate que este sea el mismo
 MENSAJES_PROCESADOS = set()
 
 # ... (Tu función verify_webhook GET sigue igual) ...
+# --- RUTA DE VERIFICACIÓN (MÉTODO GET) ---
 @app.route("/webhook", methods=['GET'])
 def verify_webhook():
-    # ... (código idéntico) ...
-    print("Intentando verificar webhook...")
+    """
+    Verifica el webhook con Facebook.
+    """
     mode = request.args.get('hub.mode')
     token = request.args.get('hub.verify_token')
     challenge = request.args.get('hub.challenge')
-    if mode == 'subscribe' and token == VERIFY_TOKEN:
-        print("¡WEBHOOK VERIFICADO!")
-        return challenge, 200
-    else:
-        print("ERROR: Token incorrecto o modo inválido.")
-        return "Token incorrecto", 403
 
+    if mode and token:
+        if mode == 'subscribe' and token == VERIFY_TOKEN:
+            print("WEBHOOK_VERIFIED")
+            return challenge, 200
+        else:
+            return 'Forbidden', 403
+    
+    return 'Hola! El servidor está corriendo correctamente.', 200
 
 # --- (SOBREESCRIBIR) FUNCIÓN DE PARSEO DE TEXTO (v2.0) ---
 
